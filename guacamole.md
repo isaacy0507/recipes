@@ -7,4 +7,4 @@
 * black pepper
 
 ## Instructions
-* prices are rough
+* prices are rough!
